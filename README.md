@@ -65,3 +65,23 @@ Modelo de responsabilidade compartilhada
 
 É um modelo que mostra quais partes nós clientes temos que reter, e quais partes os provedores de nuvem tem que fazer, e também quais partes podem variar de acordo com o tipo de serviço 
 
+# Quarto desafio
+
+Regiões
+
+O Azure oferece mais de 60 regiões globais, representando mais de 140 países , as regiões fornecem flexibilidade e escala para reduzir a latência do cliente, preserva a residência dos dados com uma oferta abrangente de conformidade, geralmente as regiões são compostas por três datacenters.
+Regiões soberanas 
+
+Azure Governamental
+
+Atende os serviços do governo dos Estados Unidos, e é acessível apenas para pessoas verificadas e autorizadas
+
+
+Azure China  
+
+A Microsoft é o primeiro provedor de cloud estrangeiro na China e segue as leis da China, e é operado pela 21Vianet, todos os dados permanecem dentro da China para garantir conformidade.
+
+
+Recursos do Azure
+Temos maquinas virtuais, contas de armazenamento, redes virtuais, serviços de aplicativos, banco de dados SQL, funções e etc. Os recursos podem existir apenas em um grupo de recursos, e podem ser movidos para diferentes grupos de recursos.
+
