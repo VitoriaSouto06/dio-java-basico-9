@@ -85,3 +85,33 @@ A Microsoft é o primeiro provedor de cloud estrangeiro na China e segue as leis
 Recursos do Azure
 Temos maquinas virtuais, contas de armazenamento, redes virtuais, serviços de aplicativos, banco de dados SQL, funções e etc. Os recursos podem existir apenas em um grupo de recursos, e podem ser movidos para diferentes grupos de recursos.
 
+# Quinto Desafio
+
+Serviços de computação
+
+É um serviço que oferece recursos de computação como discos, memoria, processador e etc.
+
+
+Maquinas virtuais da Azure
+
+São emulações de software de computadores físicos
+
+
+Conjuntos de dimensionamentos de VMs
+
+Oferecem uma oportunidade de balanceamento de carga para dimensionar os recursos automaticamente mas não chega a ser um load balancer
+
+
+Conjuntos de disponibilidade de VMs
+
+Temos outros domínios que seguem funcionando caso algum deles caia, o ideal é ter pelo menos 3 domínios de falhas
+
+
+Area de trabalho virtual do Azure
+
+Cria um ambiente completo de virtualização da área de trabalho sem precisar de outros servidores de gateway, implantações reais de várias sessões  
+
+
+Serviços de containers do Azure
+
+Eles fornecem um ambiente leve e virtualizado que não exige o gerenciamento do sistema operacional, como o Docker.
